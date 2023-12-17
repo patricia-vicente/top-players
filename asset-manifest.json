@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/top-players/static/css/main.9150aace.css",
+    "main.js": "/top-players/static/js/main.5040d8e7.js",
+    "index.html": "/top-players/index.html",
+    "main.9150aace.css.map": "/top-players/static/css/main.9150aace.css.map",
+    "main.5040d8e7.js.map": "/top-players/static/js/main.5040d8e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9150aace.css",
+    "static/js/main.5040d8e7.js"
+  ]
+}
